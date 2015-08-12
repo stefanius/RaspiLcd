@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from Adafruit_CharLCD import Adafruit_CharLCD
+from RaspiLcd import RaspiLcd/lib
 from subprocess import *
 from time import sleep, strftime
 from datetime import datetime
