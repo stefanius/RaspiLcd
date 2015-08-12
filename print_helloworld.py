@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from RaspiLcd import lib
+from lib import lib
 from subprocess import *
 from time import sleep, strftime
 from datetime import datetime
