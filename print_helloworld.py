@@ -19,5 +19,5 @@ def run_cmd(cmd):
 
 lcd.clear()
 ipaddr = run_cmd(cmd)
-lcd.message(datetime.now().strftime('%b %d  %H:%M:%S\n'))
-lcd.message('IP %s' % (ipaddr))
+lcd.message('hello')
+lcd.message('world')
