@@ -17,5 +17,5 @@ def run_cmd(cmd):
 
 lcd.clear()
 ipaddr = run_cmd(cmd)
-lcd.message('hello')
+lcd.message('hello \n')
 lcd.message('world')
