@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from lib import lib
+from lib import *
 from subprocess import *
 from time import sleep, strftime
 from datetime import datetime
